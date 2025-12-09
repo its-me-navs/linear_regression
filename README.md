@@ -104,6 +104,10 @@ $$R^2 = 1 - \frac{MSE_{residual}}{MSE_{total}}$$
 - Cross-validation for better evaluation
 - Residual analysis
 
+# Screenshots 📸
+
+<img width="905" height="637" alt="Screenshot 2025-12-09 224131" src="https://github.com/user-attachments/assets/19a68049-0e24-4a73-84b5-6c83671cca7a" />
+
 ---
 
 **Author**: Naviy  
